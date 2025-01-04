@@ -17,3 +17,8 @@ use of adaptive technologies further supports the responsive and inclusive natur
 these services. By integrating monitoring and adaptivity, transportation hubs can offer a 
 more inclusive environment, enabling passengers with reduced mobility to travel with 
 greater independence and confidence
+
+## Project Documentation
+
+[Download the PICK-UP Documentation (PDF)](PICK-UP1.pdf)
+
